@@ -39,14 +39,25 @@ I build practical web applications with a strong focus on Laravel-based products
 
 ## Featured Projects
 
-### Laravel and PHP
+### Featured Work
 
-- [income_expense_system_management](https://github.com/reaksmeykem/income_expense_system_management)
-  Practical PHP project for managing income and expense records.
-- [LaravelPostCrudWithMultipleImages](https://github.com/reaksmeykem/LaravelPostCrudWithMultipleImages)
+- [exposely](https://github.com/reaksmeykem/exposely)
+  Desktop app and CLI built with Go for exposing local apps through Cloudflare Quick Tunnels.
+- [mobile-simulator](https://github.com/reaksmeykem/mobile-simulator)
+  JavaScript project for simulating mobile devices and testing responsive layouts.
+- [video-transcriber](https://github.com/reaksmeykem/video-transcriber)
+  Python-based project focused on video transcription workflows.
+- [khqr](https://github.com/reaksmeykem/khqr)
+  PHP project related to KHQR workflows and development.
+
+### Laravel and PHP Projects
+
+- [laravel-images](https://github.com/reaksmeykem/laravel-images)
   Laravel CRUD project with support for multiple image uploads.
-- [build-news-portal-using-moonshine-laravel-with-mysql](https://github.com/reaksmeykem/build-news-portal-using-moonshine-laravel-with-mysql)
+- [laravel-moonshine-news-webapp](https://github.com/reaksmeykem/laravel-moonshine-news-webapp)
   News portal project built with Laravel, Moonshine, and MySQL.
+- [tracking-system](https://github.com/reaksmeykem/tracking-system)
+  PHP-based tracking and management project.
 
 ### Laravel Stack Focus
 
@@ -60,11 +71,11 @@ I build practical web applications with a strong focus on Laravel-based products
 
 ### Frontend Practice
 
-- [library_management](https://github.com/reaksmeykem/library_management)
-  JavaScript-based project around library management concepts.
+- [html-css-video-background](https://github.com/reaksmeykem/html-css-video-background)
+  Frontend practice project using HTML and CSS with a video background layout.
 - [layout-article-box-html-css](https://github.com/reaksmeykem/layout-article-box-html-css)
   UI layout practice using HTML and CSS.
-- [clone-youtube-ui-using-html-css](https://github.com/reaksmeykem/clone-youtube-ui-using-html-css)
+- [youtube-ui-html-css](https://github.com/reaksmeykem/youtube-ui-html-css)
   Frontend practice project focused on visual layout replication.
 
 ## What I Am Working On
@@ -86,3 +97,7 @@ I build practical web applications with a strong focus on Laravel-based products
 ## Let's Connect
 
 - GitHub: [@reaksmeykem](https://github.com/reaksmeykem)
+- Website: [reaksmeykem.dev](https://reaksmeykem.dev/)
+- YouTube: [@reaksmeykemofficail](https://www.youtube.com/@reaksmeykemofficail/videos)
+- TikTok: [@reaksmeykemofficail](https://www.tiktok.com/@reaksmeykemofficail)
+- Facebook: [reaksmeykemofficial](https://web.facebook.com/reaksmeykemofficial)
