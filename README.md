@@ -78,36 +78,6 @@ I build practical web applications with a strong focus on Laravel-based products
 - [youtube-ui-html-css](https://github.com/reaksmeykem/youtube-ui-html-css)
   Frontend practice project focused on visual layout replication.
 
-## What I Am Working On
-
-- Building stronger Laravel applications with Livewire, Alpine.js, and Vue.js
-- Improving interface quality with Tailwind CSS
-- Expanding production-ready integrations with AWS SES and S3
-
-## Performance Focus
-
-- Improving Laravel application performance and query efficiency
-- Building faster, cleaner UI flows with Livewire, Alpine.js, Vue.js, and Tailwind CSS
-- Reducing unnecessary complexity in both backend logic and frontend rendering
-- Focusing on practical optimization for real-world web applications
-
-## Contribution and Collaboration
-
-- Open to contributing to Laravel, PHP, and frontend-related projects
-- Interested in collaborating on practical tools, business systems, and developer products
-- Always improving code quality, maintainability, and developer experience
-- Open to teamwork, learning, and building useful software with others
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=reaksmeykem&show_icons=true&hide_border=true&title_color=1f3a5f&icon_color=bf3b2b&text_color=2d3748&bg_color=ffffff" alt="Reaksmey Kem GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaksmeykem&layout=compact&hide_border=true&title_color=1f3a5f&text_color=2d3748&bg_color=ffffff" alt="Top languages" />
-</p>
-
 ## Let's Connect
 
 - GitHub: [@reaksmeykem](https://github.com/reaksmeykem)
