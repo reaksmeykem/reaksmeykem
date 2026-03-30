@@ -1,7 +1,7 @@
 # Reaksmey Kem
 
 <p align="center">
-  Full Stack Web Developer focused on Laravel applications with Tailwind CSS, Alpine.js, Livewire, AWS SES, and S3.
+  Full Stack Web Developer focused on Laravel applications with Tailwind CSS, Alpine.js, Livewire, Vue.js, AWS SES, and S3.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 I build practical web applications with a strong focus on Laravel-based products and clean frontend experiences.
 
 - I build backend systems with Laravel and PHP.
-- I create responsive interfaces with Tailwind CSS, Alpine.js, and Livewire.
+- I create responsive interfaces with Tailwind CSS, Alpine.js, Livewire, and Vue.js.
 - I work with AWS SES for email workflows and AWS S3 for file storage.
 - I enjoy building CRUD systems, management platforms, and content-driven web apps.
 - I keep improving both backend architecture and frontend usability.
@@ -25,6 +25,7 @@ I build practical web applications with a strong focus on Laravel-based products
   <img src="https://img.shields.io/badge/Laravel-bf3b2b?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Livewire-a5337a?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
   <img src="https://img.shields.io/badge/Alpine.js-215c5c?style=for-the-badge&logo=alpinedotjs&logoColor=white" alt="Alpine.js" />
+  <img src="https://img.shields.io/badge/Vue.js-2f855a?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f766e?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/MySQL-1f6f8b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/AWS_SES-8b5cf6?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SES" />
@@ -52,6 +53,7 @@ I build practical web applications with a strong focus on Laravel-based products
 - Laravel application development
 - Livewire-powered interactive admin and dashboard workflows
 - Alpine.js for lightweight frontend interactions
+- Vue.js for modern reactive frontend interfaces
 - Tailwind CSS for fast and consistent UI styling
 - AWS SES integration for transactional email delivery
 - AWS S3 integration for file and media storage
@@ -67,7 +69,7 @@ I build practical web applications with a strong focus on Laravel-based products
 
 ## What I Am Working On
 
-- Building stronger Laravel applications with Livewire and Alpine.js
+- Building stronger Laravel applications with Livewire, Alpine.js, and Vue.js
 - Improving interface quality with Tailwind CSS
 - Expanding production-ready integrations with AWS SES and S3
 
