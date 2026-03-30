@@ -84,6 +84,20 @@ I build practical web applications with a strong focus on Laravel-based products
 - Improving interface quality with Tailwind CSS
 - Expanding production-ready integrations with AWS SES and S3
 
+## Performance Focus
+
+- Improving Laravel application performance and query efficiency
+- Building faster, cleaner UI flows with Livewire, Alpine.js, Vue.js, and Tailwind CSS
+- Reducing unnecessary complexity in both backend logic and frontend rendering
+- Focusing on practical optimization for real-world web applications
+
+## Contribution and Collaboration
+
+- Open to contributing to Laravel, PHP, and frontend-related projects
+- Interested in collaborating on practical tools, business systems, and developer products
+- Always improving code quality, maintainability, and developer experience
+- Open to teamwork, learning, and building useful software with others
+
 ## GitHub Stats
 
 <p>
